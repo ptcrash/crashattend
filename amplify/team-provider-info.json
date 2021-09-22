@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crashattend-dev-110108-authRole",
+      "UnauthRoleArn": "arn:aws:iam::026175033922:role/amplify-crashattend-dev-110108-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::026175033922:role/amplify-crashattend-dev-110108-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-crashattend-dev-110108-deployment",
+      "UnauthRoleName": "amplify-crashattend-dev-110108-unauthRole",
+      "StackName": "amplify-crashattend-dev-110108",
+      "StackId": "arn:aws:cloudformation:us-east-1:026175033922:stack/amplify-crashattend-dev-110108/511612a0-1bbe-11ec-ab9e-0ee77b78a78f",
+      "AmplifyAppId": "drw81i9r8oi3w"
+    },
+    "categories": {
+      "auth": {
+        "crashattend053a23d3": {}
+      }
+    }
+  }
+}
